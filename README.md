@@ -62,8 +62,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 <br>
 <br>
+
+### My portfolio in construction 🔨
+
+<div>
+<a href="https://fakebx.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-4B8FD9?style=for-the-badge&logo=&logoColor=white"></a>
+</div>
 <br>
 <br>
+
 
 ---
 <br>
@@ -81,6 +88,7 @@
 
 <div>
 <a href="https://www.instagram.com/felipekbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/felipekucharski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ### Contact Me
