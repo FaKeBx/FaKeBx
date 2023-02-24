@@ -17,14 +17,6 @@
 <br>
 <br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=FaKeBx&theme=github&hide_border=true&area=true&bg_color=0d1117)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ### Trophys
 <br>
 <br>
