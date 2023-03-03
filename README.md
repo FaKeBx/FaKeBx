@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### Trophys
+<!-- ### Trophys
 
 <br>
 <br>
@@ -36,7 +36,7 @@
 <br>
 <br>
 <br>
-<br>
+<br> -->
 
 ### Main skills
 
