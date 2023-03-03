@@ -8,6 +8,12 @@
 <br>
 <br>
 
+<div align="center">
+<a href="https://drive.google.com/file/d/17ARzjXNMWwopFkf0gWd-St7HW9yhkHM8/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Curriculum-Vitae-58A6FE?style=for-the-badge&logo=&logoColor=white&labelColor=0D1117"></a>
+</div>
+<br>
+<br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FaKeBx&show_icons=true&count_private=true&hide_border=true&title_color=58A6FE&icon_color=8B949E&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Kucharski de Barbosa github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaKeBx&layout=compact&hide_border=true&title_color=58A6FE&text_color=c9d1d9&bg_color=0d1117" />
@@ -18,6 +24,7 @@
 <br>
 
 ### Trophys
+
 <br>
 <br>
 <br>
@@ -33,7 +40,8 @@
 
 ### Main skills
 
-  ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E35027)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E35027)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=84e)
 <br>
@@ -44,14 +52,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Apple](https://img.shields.io/badge/Apple%20-0D1117?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
-![iterm](https://img.shields.io/badge/iTerm2-0D1117?style=for-the-badge&logo=iterm2&logoColor=white)
+![iterm](https://img.shields.io/badge/Warp-0D1117?style=for-the-badge&logo=iterm2&logoColor=teal)
 <br>
 <br>
-  
+
 ### Studying in this moment
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E35027)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React&logoColor=&labelColor=0D1117)&nbsp;
 <br>
 <br>
 
@@ -63,8 +71,8 @@
 <br>
 <br>
 
-
 ---
+
 <br>
 <br>
 
@@ -76,7 +84,7 @@
 <br>
 <br>
 
-### My Social Medias 
+### My Social Medias
 
 <div>
 <a href="https://www.instagram.com/felipekbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -93,7 +101,6 @@
 <br>
 <br>
 <br>
-
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
