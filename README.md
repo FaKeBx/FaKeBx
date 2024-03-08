@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MesloLGS+NF&size=32&pause=300&color=58A6FE&background=77777700&center=true&vCenter=true&width=1000&height=100&lines=Hello!+My+name+is+Felipe+Kucharski+de+Barbosa;I'm+23+years+old;I'm+from+Brasil+%F0%9F%87%A7%F0%9F%87%B7+RS;I+study+information+systems+at+FURG;Nice+To+Meet+You+%F0%9F%92%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MesloLGS+NF&size=32&pause=300&color=58A6FE&background=77777700&center=true&vCenter=true&width=1000&height=100&lines=Hello!+My+name+is+Felipe+Kucharski+de+Barbosa;I'm+24+years+old;I'm+from+Brasil+%F0%9F%87%A7%F0%9F%87%B7+RS;I+have+a+degree+in+information+systems+from+FURG;Nice+To+Meet+You+%F0%9F%92%96)](https://git.io/typing-svg)
 <br>
 <br>
 <br>
@@ -40,9 +40,11 @@
 
 ### Main skills
 
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React&logoColor=&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E35027)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<br>
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=84e)
 <br>
 <br>
@@ -58,8 +60,8 @@
 
 ### Studying in this moment
 
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React&logoColor=&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
 <br>
 <br>
 
