@@ -15,7 +15,7 @@
 <br> -->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FaKeBx&show_icons=true&count_private=true&hide_border=true&title_color=58A6FE&icon_color=8B949E&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Kucharski de Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FaKeBx&show_icons=true&include_all_commits=true&hide_border=true&title_color=58A6FE&icon_color=8B949E&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Kucharski de Barbosa github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaKeBx&layout=compact&hide_border=true&title_color=58A6FE&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <br>
