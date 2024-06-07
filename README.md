@@ -38,55 +38,31 @@
 <br>
 <br> -->
 
-# Main skills
+<h1 style="color: #58A6FE">Main Skills</h1>
 
 ### Frameworks
-![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-
+![My Skills](https://skillicons.dev/icons?i=next)
 
 ### Libs
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React&logoColor=&labelColor=0D1117)&nbsp;
-![Vue](https://img.shields.io/badge/Vue%20js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D=&labelColor=0D1117)&nbsp;
+![My Skills](https://skillicons.dev/icons?i=react,vue)
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+![My Skills](https://skillicons.dev/icons?i=js,ts)
 
 ### Others
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E35027)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=84e)
+![My Skills](https://skillicons.dev/icons?i=tailwind,html,css)
 <br>
 <br>
 
-## Tools
+<h1 style="color: #58A6FE">Tools</h1>
 
-![Apple](https://img.shields.io/badge/M1%20Pro%20-0D1117?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Hyper](https://img.shields.io/badge/Hyper-0D1117?style=for-the-badge&logo=hyper&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=apple,vscode,git,github,npm,yarn,postman)](https://skillicons.dev)
 <br>
 <br>
 
-## Studying in this moment
+<h1 style="color: #58A6FE">Studying at the moment</h1>
 
-![Quasar](https://img.shields.io/badge/Quasar-0D1117?style=for-the-badge&logo=quasar&logoColor=2C7BD4)
-![Nuxt](https://img.shields.io/badge/nuxt-0D1117?style=for-the-badge&logo=nuxtdotjs&logoColor=4EDF94)
-<br>
-<br>
-
-## My portfolio in construction 🔨
-
-<div>Well, we all have a beginning right? 😂 (I did this 3 years ago)<div>
-<br>
-<div>
-<a href="https://fakebx.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-4B8FD9?style=for-the-badge&logo=&logoColor=white"></a>
-</div>
-<br>
-<br>
-
----
-
+![My Skills](https://skillicons.dev/icons?i=nodejs,bun,prisma,postgres,supabase)
 <br>
 <br>
 
@@ -98,27 +74,11 @@
 <br>
 <br>
 
-### My Social Medias
-
-<div>
-<a href="https://www.instagram.com/felipekbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/felipekucharski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
-### Contact Me
-
-<div>
-<a href="mailto:felipekb2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="mailto:felipekucharski@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-</div>
-<br>
-<br>
-<br>
-<br>
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FaKeBx}/count.svg" /></p> 
+<br>
+<p align="center"><b>Visitors Count</b></p>  
+<img align="center" src="https://profile-counter.glitch.me/{FaKeBx}/count.svg" />
 <br>
 </div>
 
