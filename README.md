@@ -62,7 +62,7 @@
 
 <h1 style="color: #58A6FE">Studying at the moment</h1>
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,bun,prisma,postgres,supabase)
+![My Skills](https://skillicons.dev/icons?i=angular,nodejs,postgres)
 <br>
 <br>
 
