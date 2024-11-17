@@ -38,6 +38,10 @@
 <br>
 <br> -->
 
+<h1 style="color: #58A6FE">My documentation model for software projects</h1>
+<p>Made with Notion</p>
+<a href="https://felipe-kucharski.notion.site/Documentation-Model-13ebd4b5623380018f39f37a593bac95#7977908fac064a25aae78d1db6d870ab">click here to see the model</a>
+
 <h1 style="color: #58A6FE">Main Skills</h1>
 
 ### Frameworks
@@ -56,7 +60,7 @@
 
 <h1 style="color: #58A6FE">Tools</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=apple,vscode,git,github,npm,yarn,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,vscode,git,github,npm,yarn,postman)](https://skillicons.dev)
 <br>
 <br>
 
