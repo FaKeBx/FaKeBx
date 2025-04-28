@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MesloLGS+NF&size=32&pause=300&color=58A6FE&background=77777700&center=true&vCenter=true&width=1000&height=100&lines=Hello!+My+name+is+Felipe+Kucharski+de+Barbosa;I'm+24+years+old;I'm+from+Brasil+%F0%9F%87%A7%F0%9F%87%B7+RS;I+have+a+degree+in+information+systems+from+FURG;Nice+To+Meet+You+%F0%9F%92%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MesloLGS+NF&size=32&pause=300&color=58A6FE&background=77777700&center=true&vCenter=true&width=1000&height=100&lines=Hello!+My+name+is+Felipe+Kucharski+de+Barbosa;I'm+25+years+old;I'm+from+Brasil+%F0%9F%87%A7%F0%9F%87%B7+RS;I+have+a+degree+in+information+systems+from+FURG;Nice+To+Meet+You+%F0%9F%92%96)](https://git.io/typing-svg)
 <br>
 <br>
 <br>
@@ -66,7 +66,7 @@
 
 <h1 style="color: #58A6FE">Studying at the moment</h1>
 
-![My Skills](https://skillicons.dev/icons?i=angular,nodejs,postgres)
+![My Skills](https://skillicons.dev/icons?i=nodejs)
 <br>
 <br>
 
